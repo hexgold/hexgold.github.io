@@ -1,4 +1,4 @@
-[![](https://i.imgur.com/nhqzqHH.png)](https://xscode.com/daattali/beautiful-jekyll)
+[![](https://i.ibb.co/b3RXjwp/20200717-111409.jpg)](https://xscode.com/daattali/beautiful-jekyll)
 
 # Hex Gold Classic
 
