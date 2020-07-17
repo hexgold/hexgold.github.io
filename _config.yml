@@ -14,9 +14,9 @@ author: Some Person
 navbar-links:
   About: "about"
   Resources:
-    - Beautiful Jekyll: "https://hexgold.github.io"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Token Tracker: "https://etherscan.io/token/0x0b837386dc303f54c7ca687be52034ba35aa40f5"
+    - Whitepaper: "/"
+  Community: "https://t.me/hexgoldclassic"
 
 # --- Logo --- #
 
