@@ -1,5 +1,5 @@
 <center>
-[![](https://i.ibb.co/b3RXjwp/20200717-111409.jpg)](https://xscode.com/daattali/beautiful-jekyll)
+<img src="https://i.ibb.co/b3RXjwp/20200717-111409.jpg"/>
 </center>
 # Hex Gold Classic
 
