@@ -39,9 +39,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "krianhacker@gmail.com"
-  facebook: deanattali
-  github: hexgold
+  telegram: hexgoldclassic
   twitter: hexgoldclassic
+  github: hexgold
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -55,7 +55,6 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-  telegram: hexgoldclassic
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
