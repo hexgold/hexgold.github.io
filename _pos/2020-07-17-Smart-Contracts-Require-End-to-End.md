@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Sample blog post
+title: Smart Contracts Require End-to-End Reliability
 subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+gh-repo: hexgold/hexgold.github.io
+comments: false
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Smart Contracts provide the ability to execute tamper-proof digital agreements, which are considered highly secure and highly reliable. In order to maintain a contract's overall reliability, the inputs and outputs that the contract relies on also need to be secure. Chainlinks provide a reliable connection to external data that is provably secure end-to-end.
 
 **Here is some bold text**
 
